@@ -1,0 +1,41 @@
+GET_RELATIONSHIP Queen Anga son
+GET_RELATIONSHIP King Shan daughter
+ADD_CHILD amba new female
+GET_RELATIONSHIP Lika Daughter
+GET_RELATIONSHIP Dritha Siblings
+GET_RELATIONSHIP Jaya Sister-In-Law
+GET_RELATIONSHIP Yodhan Maternal-Aunt
+GET_RELATIONSHIP Lika Son
+GET_RELATIONSHIP Vila Sister-In-Law
+GET_RELATIONSHIP Lika Daughter
+GET_RELATIONSHIP Vyan Daughter
+GET_RELATIONSHIP Vyan Brother-In-Law
+GET_RELATIONSHIP Arit Daughter
+GET_RELATIONSHIP Lavnya Daughter
+GET_RELATIONSHIP Jaya Sister-In-Law
+GET_RELATIONSHIP Queen Anga son
+GET_RELATIONSHIP Amba Son
+GET_RELATIONSHIP Aras Son
+ADD_CHILD amba new2 female
+GET_RELATIONSHIP Dritha Siblings
+GET_RELATIONSHIP Jnki Sister-In-Law
+GET_RELATIONSHIP Amba Siblings
+GET_RELATIONSHIP Arit Brother-In-Law
+GET_RELATIONSHIP Laki Siblings
+GET_RELATIONSHIP Dritha Brother-In-Law
+GET_RELATIONSHIP Amba Brother-In-Law
+GET_RELATIONSHIP Satya Son
+GET_RELATIONSHIP Satvy Sister-In-Law
+GET_RELATIONSHIP Satvy Maternal-Uncle
+GET_RELATIONSHIP Asva Maternal-Uncle
+GET_RELATIONSHIP Lavnya Maternal-Uncle
+GET_RELATIONSHIP Vyan Brother-In-Law
+GET_RELATIONSHIP Jaya Sister-In-Law
+GET_RELATIONSHIP Asva Maternal-Uncle
+GET_RELATIONSHIP Atya Sister-In-Law
+GET_RELATIONSHIP Satvy Maternal-Uncle
+GET_RELATIONSHIP Lavnya Maternal-Uncle
+GET_RELATIONSHIP Krithi Maternal-Aunt
+GET_RELATIONSHIP Krithi Paternal-Aunt
+GET_RELATIONSHIP Yodhan Maternal-Aunt
+GET_RELATIONSHIP Yodhan Paternal-Aunt
